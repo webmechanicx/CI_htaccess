@@ -4,7 +4,7 @@ Remove "index.php" from CodeIgniter URL
 
 ## Three Easy Steps:
 
-1. Make sure you remove "index.php" in ```code$config['index_page'] = '' ``` from the file ```code application/config/config.php ```
+1. Make sure you remove "index.php" in ``` $config['index_page'] = '' ``` from the file ``` application/config/config.php ```
 2. Create a new file in root ".htaccess" by using any code editor.
 3. Add the following code and Save it:
 
