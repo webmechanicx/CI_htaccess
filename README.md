@@ -8,7 +8,7 @@ Remove "index.php" from CodeIgniter URL
 2. Create a new file in root ".htaccess" by using any code editor.
 3. Add the following code and Save it:
 
-```code
+```html
 RewriteEngine on
 RewriteCond $1 !^(index\.php|public|\.txt)
 RewriteCond %{REQUEST_FILENAME} !-f
