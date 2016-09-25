@@ -1,5 +1,5 @@
 # CI_htaccess
-Remove "index.php" from CodeIgniter URL
+Remove "index.php" from URL CodeIgniter.
 
 
 ## Three Easy Steps:
